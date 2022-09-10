@@ -5,7 +5,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-## Assignment 15 [Live Link]()
+## Assignment 12 [Live Link](live-project-12.netlify.app)
 
 - Skills Gained during this assignment
   - Was able to do responsiveness in a short amount of time.
